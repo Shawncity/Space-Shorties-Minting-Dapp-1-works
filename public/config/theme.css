@@ -3,6 +3,6 @@
   --primary-text: white;
   --secondary: #ff1dec;
   --secondary-text: white;
-  --accent: white;
-  --accent-text: white;
+  --accent: rgb(43, 180, 50)
+  --accent-text: rgb(218, 195, 195);
 }
