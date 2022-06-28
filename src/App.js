@@ -627,34 +627,45 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
             </s.TextTitle>
             <s.SpacerLarge/>
             <PanelGroup style={{width: "80%", borderColor: "#A9D0D2"}} accordion bordered>
-    <Panel header="what is an nft?" defaultExpanded>
+    <Panel header="What is a NFT?" defaultExpanded>
     <s.TextP style={{textAlign: "left"}}>
-          lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    An NFT is a digital asset that represents real-world objects like art, music, in-game items and videos. They are bought and sold online, frequently with cryptocurrency.
+    NFT stands for Non Fungible token
+
           </s.TextP>
     </Panel>
-    <Panel header="how can i mint">
+    <Panel header="What's the point of this? Why do I want one?">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    NFTs are used for many purposes, we hope you appreciate the ART factor but our NFTs also provide special access to future endeavors 
+
           </s.TextP>
     </Panel>
-    <Panel header="what is hashlips">
+    <Panel header="How do I buy one?">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    If you are on a desktop connect your MetaMask and make sure you are on the Matic network
+    (gas fees are subject to change)
+
           </s.TextP>
     </Panel>
-    <Panel header="what is hashlips">
+    <Panel header="How do I buy one on mobile?">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    Download MetaMask app on your mobile device, log in and open the browser inside of your MetMask app, 
+    paste this url in the search 
+    https://www.shawncitydirect.com
+    Connect your MetaMask, now you will be able to purchase
+
           </s.TextP>
     </Panel>
-    <Panel header="what is hashlips">
+    <Panel header="I bought one, where is it now?">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    Click the following link https://opensea.io/ to check to see what nft you received
           </s.TextP>
     </Panel>
-    <Panel header="what is hashlips">
+    <Panel header="I don't see my nft on opensea!">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    After a purchase a NFT can take up to 30min to appear on opensea,
+    Also remember check your hidden section on opensea
+
           </s.TextP>
     </Panel>
   </PanelGroup>
