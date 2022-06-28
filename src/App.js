@@ -661,7 +661,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     Click the following link https://opensea.io/ to check to see what nft you received
           </s.TextP>
     </Panel>
-    <Panel header="I don't see my nft on opensea!">
+    <Panel header="I don't see my NFT on opensea!">
     <s.TextP style={{textAlign: "left"}}>
     After a purchase a NFT can take up to 30min to appear on opensea,
     Also remember check your hidden section on opensea
