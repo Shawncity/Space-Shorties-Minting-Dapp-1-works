@@ -592,16 +592,21 @@ function App() {
         <s.SpacerLarge />
         <s.SecContainer id="story">
         <s.TextTitle>
-            STORY
+            Orgin
             </s.TextTitle>
             <s.SpacerLarge/>
             <s.TextP>
 
-lorem ipsum
+A mysterious group of feminine beings living amongst us in plain sight, eventually determined to be of extraterrestrial origin…..
 <br></br><br></br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Space Shorties is a hand drawn collection combined with generative art inspired by the diversity and uniqueness of women across the galaxy. 10,000 total Space Shorties were created each styled with various clothing, hairstyles and accessories.
 <br></br><br></br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.            
+Data has shown us that the species is composed of 4 races..
+<br></br>            
+Libras, Cosmics, Novas and Stellas.
+(that we know of) intrigued with humans, inspired by style, these cool kinky enigmas are a very interesting discovery 
+<br></br><br></br>
+Subscribe to our discord to stay up to date with the discovery
 </s.TextP>
             </s.SecContainer>
 
@@ -629,8 +634,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
             <PanelGroup style={{width: "80%", borderColor: "#A9D0D2"}} accordion bordered>
     <Panel header="What is a NFT?" defaultExpanded>
     <s.TextP style={{textAlign: "left"}}>
-    An NFT is a digital asset that represents real-world objects like art, music, in-game items and videos. They are bought and sold online, frequently with cryptocurrency.
-    NFT stands for Non Fungible token
+    NFTs or Non Fungible Tokens are digital assets that represents real-world objects like art, music, and much more. They are bought and sold online, frequently with cryptocurrency.
+    
 
           </s.TextP>
     </Panel>
@@ -650,15 +655,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <Panel header="How do I buy one on mobile?">
     <s.TextP style={{textAlign: "left"}}>
     Download MetaMask app on your mobile device, log in and open the browser inside of your MetMask app, 
-    paste this url in the search 
-    https://www.shawncitydirect.com
+    paste the url https://www.shawncitydirect.com in the search
+    
     Connect your MetaMask, now you will be able to purchase
 
           </s.TextP>
     </Panel>
     <Panel header="I bought one, where is it now?">
     <s.TextP style={{textAlign: "left"}}>
-    Click the following link https://opensea.io/ to check to see what nft you received
+    navigate to opensea to check to see what nft you received
           </s.TextP>
     </Panel>
     <Panel header="I don't see my NFT on opensea!">
