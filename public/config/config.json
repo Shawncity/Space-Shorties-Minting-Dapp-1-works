@@ -9,7 +9,7 @@
   "NFT_NAME": "Space Shorties",
   "SYMBOL": "Space Shortie",
   "MAX_SUPPLY": 10000,
-  "DISPLAY_COST": 10,
+  "DISPLAY_COST": 0.5,
   "GAS_LIMIT": 285000,
   "MAX_PER_TX": 5,
   "MARKETPLACE": "Opensea",
